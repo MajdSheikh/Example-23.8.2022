@@ -1,0 +1,29 @@
+
+
+  h1 {
+    color: white;
+    background-color: black;
+    font-family: Georgia;
+    margin-top: 2px;
+    margin-bottom: 5px;
+  }
+ 
+  h2 {
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    
+  }
+  
+  h3 {
+    color: darkblue;
+    background-color: lightblue;
+    text-align: right;
+    font-weight: light;
+    text-decoration: underline;
+    margin-top: 2px;
+    margin-bottom: 5px;
+  }
