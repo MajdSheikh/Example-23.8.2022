@@ -1,0 +1,51 @@
+.button1 {
+    background-color: whitesmoke;
+    border: 2px solid rgb(53, 189, 175);
+    outline-color: rgb(18, 170, 175);
+    color:rgb(41, 155, 155);
+    padding: 5px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+    margin: 50px 60px 10px 60px;
+    display: block;
+    cursor: pointer
+    
+  }
+  .button2 {
+    background-color: turquoise;
+    border: none;
+    color:white;
+    width: 40px;
+   height: 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 50%;
+    margin: 10px 60px 10px 60px;
+    display: block;
+    cursor: pointer
+    
+  }
+  .button3 {
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    color:white;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 60px 10px 60px;
+    display: block;
+    box-shadow: 3px 3px 2px 1px black;
+    cursor: pointer
+    
+  }
+
+
+
+
+
+
+
